@@ -11,3 +11,7 @@ docker run --rm --name my-running-script -v /iwork2/tmp/php:/usr/src/myapp -w /u
 
 ## OS X 查看Java home 路径
 /usr/libexec/java_home -V
+
+## 启用Mac osx 任何源
+
+sudo spctl --master-disable
