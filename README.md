@@ -21,3 +21,9 @@ https://msgpack.org
 
 ## html5代码生成
 http://work.dimpurr.com/lab/html-head-generator/
+
+## 图片压缩
+https://tinypng.com/
+
+## 数据可视化
+https://d3js.org/
