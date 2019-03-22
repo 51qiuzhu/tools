@@ -15,3 +15,9 @@ docker run --rm --name my-running-script -v /iwork2/tmp/php:/usr/src/myapp -w /u
 ## 启用Mac osx 任何源
 
 sudo spctl --master-disable
+
+## JSON压缩，知识多种语言
+https://msgpack.org
+
+## html5代码生成
+http://work.dimpurr.com/lab/html-head-generator/
